@@ -1,2 +1,78 @@
 map_id,lap_time,gamemode,location,track
 sandpit3_long_loop,85,racing,Boulder Bank,Main Route
+sandpit3_long_loop_rev,85,racing,Boulder Bank,Main Route Reverse
+sandpit3_short_loop,60,racing,Boulder Bank,Short Route
+sandpit3_short_loop_rev,60,racing,Boulder Bank,Short Route Reverse
+mixed9_r1,45,racing,Clayridge Circuit,Main Circuit
+mixed9_r1_rev,45,racing,Clayridge Circuit,Main Circuit Reverse
+triangle_r1,35,racing,Dirt Devil Stadium,Dirt Speedway
+fields08_1,40,racing,Drytown Desert,Main Circuit
+fields08_1_rev,40,racing,Drytown Desert,Main Circuit Reverse
+tarmac3_main_circuit,70,racing,Espedalen Raceway,Main Circuit
+tarmac3_main_circuit_rev,65,racing,Espedalen Raceway,Main Circuit Reverse
+tarmac3_short_circuit,35,racing,Espedalen Raceway,Short Circuit
+tarmac3_short_circuit_rev,35,racing,Espedalen Raceway,Short Circuit Reverse
+mixed1_main_circuit,40,racing,Finncross Circuit,Main Circuit
+mixed1_main_circuit_rev,40,racing,Finncross Circuit,Main Circuit Reverse
+tarmac1_main_circuit,60,racing,Fire Rock Raceway,Main Circuit
+tarmac1_main_circuit_rev,60,racing,Fire Rock Raceway,Main Circuit Reverse
+tarmac1_short_circuit,45,racing,Fire Rock Raceway,Short Circuit
+tarmac1_short_circuit_rev,45,racing,Fire Rock Raceway,Short Circuit Reverse
+mixed7_r1,50,racing,Firwood Motorcenter,Main Circuit
+mixed7_r1_rev,45,racing,Firwood Motorcenter,Main Circuit Reverse
+mixed7_r3,35,racing,Firwood Motorcenter,Short Circuit
+mixed7_r3_rev,35,racing,Firwood Motorcenter,Short Circuit Reverse
+mixed7_r2,50,racing,Firwood Motorcenter,Rally Circuit
+mixed7_r2_rev,50,racing,Firwood Motorcenter,Rally Circuit Reverse
+urban08_1,60,racing,Hillstreet Circuit,Racing Track
+urban08_1_rev,60,racing,Hillstreet Circuit,Racing Track Reverse
+mixed2_main_circuit,40,racing,Maasten Motorcenter,Main Circuit
+mixed2_main_circuit_rev,40,racing,Maasten Motorcenter,Main Circuit Reverse
+gravel1_main_loop,45,racing,Midwest Motocenter,Main Circuit
+gravel1_main_loop_rev,45,racing,Midwest Motocenter,Main Circuit Reverse
+tarmac2_main_circuit,90,racing,Motorcity Circuit,Main Circuit
+tarmac2_main_circuit_rev,100,racing,Motorcity Circuit,Main Circuit Reverse
+tarmac2_main_circuit_tourney,105,racing,Motorcity Circuit,Trophy Circuit
+mixed8_r1,40,racing,Northfolk Ring,Main Circuit
+mixed8_r3,40,racing,Northfolk Ring,Main Circuit Reverse
+mixed8_r2,40,racing,Northfolk Ring,Open Circuit
+mixed5_outer_loop,65,racing,Northland Raceway,Outer Route
+mixed5_outer_loop_rev,70,racing,Northland Raceway,Outer Route Reverse
+mixed5_inner_loop,60,racing,Northland Raceway,Inner Route
+mixed5_inner_loop_rev,60,racing,Northland Raceway,Inner Route Reverse
+mixed5_free_route,60,racing,Northland Raceway,Free Route
+mixed3_long_loop,55,racing,Pinehills Raceway,Main Circuit
+mixed3_long_loop_rev,55,racing,Pinehills Raceway,Main Circuit Reverse
+mixed3_short_loop,40,racing,Pinehills Raceway,Short Circuit
+mixed3_short_loop_rev,4055,racing,Pinehills Raceway,Short Circuit Reverse
+mixed3_r3,70,racing,Pinehills Raceway,Rally Circuit
+mixed3_r3_rev,70,racing,Pinehills Raceway,Rally Circuit Reverse
+fields14_1,55,racing,Rattlesnake Racepark,Main Circuit
+fields14_2,55,racing,Rattlesnake Racepark,Main Circuit Reverse
+mixed4_main_circuit,45,racing,Rosenheim Raceway,Main Circuit
+mixed4_main_circuit_rev,45,racing,Rosenheim Raceway,Main Circuit Reverse
+sandpit1_long_loop,70,racing,Sandstone Raceway,Main Route
+sandpit1_long_loop_rev,70,racing,Sandstone Raceway,Main Route Reverse
+sandpit1_short_loop,50,racing,Sandstone Raceway,Short Route
+sandpit1_short_loop_rev,50,racing,Sandstone Raceway,Short Route Reverse
+sandpit1_alt_loop,70,racing,Sandstone Raceway,Alt Route
+sandpit1_alt_loop_rev,75,racing,Sandstone Raceway,Alt Route Revese
+sandpit2_full_circuit,75,racing,Savolax Sandpit,Main Route
+sandpit2_full_circuit_rev,75,racing,Savolax Sandpit,Main Route Reverse
+sandpit2_2,40,racing,Savolax Sandpit,Short Route
+sandpit2_2_rev,45,racing,Savolax Sandpit,Short Route Reverse
+forest13_1,45,racing,Torsdalen Circuit,Main Circuit
+forest13_1_rev,45,racing,Torsdalen Circuit,Main Circuit Reverse
+forest13_2,35,racing,Torsdalen Circuit,Short Circuit
+forest13_2_rev,35,racing,Torsdalen Circuit,Short Circuit Reverse
+forest12_1,25,racing,Tribend Raceway,Main Circuit
+forest12_1_rev,25,racing,Tribend Raceway,Main Circuit Reverse
+forest12_2,25,racing,Tribend Raceway,Wild Circuit
+forest11_1,35,racing,Vale Falls,Main Circuit
+forest11_1_rev,35,racing,Vale Falls,Main Circuit Reverse
+forest11_2,35,racing,Vale Falls,Short Circuit
+forest11_2_rev,35,racing,Vale Falls,Short Circuit Reverse
+crm01_1,100,racing,Bleak City,Race Track
+crm01_5,100,racing,Bleak City,Race Track Reverse
+crm02_1,95,racing,Devil's Canyon,Race Track
+rt01_1,360,racing,Rally Trophy,Special Stage
