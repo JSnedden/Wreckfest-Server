@@ -16,7 +16,7 @@ This project runs on windows machines, linux machines should start servers by ca
 
 ## Setup / Install
 
-1. Download the project repository [`.zip`](https://github.com/JSnedden/Wreckfest-Server/archive/refs/heads/main.zip)
+1. [Download](https://github.com/JSnedden/Wreckfest-Server/archive/refs/heads/main.zip) the project repository `.zip`
 2. Unzip to your game installation folder
 3. Open `server_config.cfg` in whichever environment you wish and amend the server settings
 4. If you wish to use any modded maps:
