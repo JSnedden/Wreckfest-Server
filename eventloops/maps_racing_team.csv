@@ -1,0 +1,78 @@
+map_id,lap_time,gamemode,location,track
+sandpit3_long_loop,85,team race,Boulder Bank,Main Route
+sandpit3_long_loop_rev,85,team race,Boulder Bank,Main Route Reverse
+sandpit3_short_loop,60,team race,Boulder Bank,Short Route
+sandpit3_short_loop_rev,60,team race,Boulder Bank,Short Route Reverse
+mixed9_r1,45,team race,Clayridge Circuit,Main Circuit
+mixed9_r1_rev,45,team race,Clayridge Circuit,Main Circuit Reverse
+triangle_r1,35,team race,Dirt Devil Stadium,Dirt Speedway
+fields08_1,40,team race,Drytown Desert,Main Circuit
+fields08_1_rev,40,team race,Drytown Desert,Main Circuit Reverse
+tarmac3_main_circuit,70,team race,Espedalen Raceway,Main Circuit
+tarmac3_main_circuit_rev,65,team race,Espedalen Raceway,Main Circuit Reverse
+tarmac3_short_circuit,35,team race,Espedalen Raceway,Short Circuit
+tarmac3_short_circuit_rev,35,team race,Espedalen Raceway,Short Circuit Reverse
+mixed1_main_circuit,40,team race,Finncross Circuit,Main Circuit
+mixed1_main_circuit_rev,40,team race,Finncross Circuit,Main Circuit Reverse
+tarmac1_main_circuit,60,team race,Fire Rock Raceway,Main Circuit
+tarmac1_main_circuit_rev,60,team race,Fire Rock Raceway,Main Circuit Reverse
+tarmac1_short_circuit,45,team race,Fire Rock Raceway,Short Circuit
+tarmac1_short_circuit_rev,45,team race,Fire Rock Raceway,Short Circuit Reverse
+mixed7_r1,50,team race,Firwood Motorcenter,Main Circuit
+mixed7_r1_rev,45,team race,Firwood Motorcenter,Main Circuit Reverse
+mixed7_r3,35,team race,Firwood Motorcenter,Short Circuit
+mixed7_r3_rev,35,team race,Firwood Motorcenter,Short Circuit Reverse
+mixed7_r2,50,team race,Firwood Motorcenter,Rally Circuit
+mixed7_r2_rev,50,team race,Firwood Motorcenter,Rally Circuit Reverse
+urban08_1,60,team race,Hillstreet Circuit,Racing Track
+urban08_1_rev,60,team race,Hillstreet Circuit,Racing Track Reverse
+mixed2_main_circuit,40,team race,Maasten Motorcenter,Main Circuit
+mixed2_main_circuit_rev,40,team race,Maasten Motorcenter,Main Circuit Reverse
+gravel1_main_loop,45,team race,Midwest Motocenter,Main Circuit
+gravel1_main_loop_rev,45,team race,Midwest Motocenter,Main Circuit Reverse
+tarmac2_main_circuit,90,team race,Motorcity Circuit,Main Circuit
+tarmac2_main_circuit_rev,100,team race,Motorcity Circuit,Main Circuit Reverse
+tarmac2_main_circuit_tourney,105,team race,Motorcity Circuit,Trophy Circuit
+mixed8_r1,40,team race,Northfolk Ring,Main Circuit
+mixed8_r3,40,team race,Northfolk Ring,Main Circuit Reverse
+mixed8_r2,40,team race,Northfolk Ring,Open Circuit
+mixed5_outer_loop,65,team race,Northland Raceway,Outer Route
+mixed5_outer_loop_rev,70,team race,Northland Raceway,Outer Route Reverse
+mixed5_inner_loop,60,team race,Northland Raceway,Inner Route
+mixed5_inner_loop_rev,60,team race,Northland Raceway,Inner Route Reverse
+mixed5_free_route,60,team race,Northland Raceway,Free Route
+mixed3_long_loop,55,team race,Pinehills Raceway,Main Circuit
+mixed3_long_loop_rev,55,team race,Pinehills Raceway,Main Circuit Reverse
+mixed3_short_loop,40,team race,Pinehills Raceway,Short Circuit
+mixed3_short_loop_rev,4055,team race,Pinehills Raceway,Short Circuit Reverse
+mixed3_r3,70,team race,Pinehills Raceway,Rally Circuit
+mixed3_r3_rev,70,team race,Pinehills Raceway,Rally Circuit Reverse
+fields14_1,55,team race,Rattlesnake Racepark,Main Circuit
+fields14_2,55,team race,Rattlesnake Racepark,Main Circuit Reverse
+mixed4_main_circuit,45,team race,Rosenheim Raceway,Main Circuit
+mixed4_main_circuit_rev,45,team race,Rosenheim Raceway,Main Circuit Reverse
+sandpit1_long_loop,70,team race,Sandstone Raceway,Main Route
+sandpit1_long_loop_rev,70,team race,Sandstone Raceway,Main Route Reverse
+sandpit1_short_loop,50,team race,Sandstone Raceway,Short Route
+sandpit1_short_loop_rev,50,team race,Sandstone Raceway,Short Route Reverse
+sandpit1_alt_loop,70,team race,Sandstone Raceway,Alt Route
+sandpit1_alt_loop_rev,75,team race,Sandstone Raceway,Alt Route Revese
+sandpit2_full_circuit,75,team race,Savolax Sandpit,Main Route
+sandpit2_full_circuit_rev,75,team race,Savolax Sandpit,Main Route Reverse
+sandpit2_2,40,team race,Savolax Sandpit,Short Route
+sandpit2_2_rev,45,team race,Savolax Sandpit,Short Route Reverse
+forest13_1,45,team race,Torsdalen Circuit,Main Circuit
+forest13_1_rev,45,team race,Torsdalen Circuit,Main Circuit Reverse
+forest13_2,35,team race,Torsdalen Circuit,Short Circuit
+forest13_2_rev,35,team race,Torsdalen Circuit,Short Circuit Reverse
+forest12_1,25,team race,Tribend Raceway,Main Circuit
+forest12_1_rev,25,team race,Tribend Raceway,Main Circuit Reverse
+forest12_2,25,team race,Tribend Raceway,Wild Circuit
+forest11_1,35,team race,Vale Falls,Main Circuit
+forest11_1_rev,35,team race,Vale Falls,Main Circuit Reverse
+forest11_2,35,team race,Vale Falls,Short Circuit
+forest11_2_rev,35,team race,Vale Falls,Short Circuit Reverse
+crm01_1,100,team race,Bleak City,Race Track
+crm01_5,100,team race,Bleak City,Race Track Reverse
+crm02_1,95,team race,Devil's Canyon,Race Track
+rt01_1,360,team race,Rally Trophy,Special Stage
