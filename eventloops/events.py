@@ -19,15 +19,18 @@ def addTracks(type:str) -> TRACK_SET:
     fields = []
     tracks:TRACK_SET = []
     
-    with open(filename) as file:
+    try:
+        with open(filename) as file:
 
-        reader = csv.reader(file, delimiter=',')
+            reader = csv.reader(file, delimiter=',')
 
-        fields = next(reader)
+            fields = next(reader)
 
-        for row in reader:
-            track:TRACK = { 'id':row[0], 'lap':int(row[1]), 'gamemode':row[2] }
-            tracks.append(track)
+            for row in reader:
+                track:TRACK = { 'id':row[0], 'lap':int(row[1]), 'gamemode':row[2] }
+                tracks.append(track)
+    except:
+        print('# Error getting tracks in '+filename)
     
     return tracks
 
@@ -41,8 +44,9 @@ def setTracks(track_list:TRACK_SET) -> None:
         print('')
 
 maps = sys.argv[1:]
-tracks = []
+tracks:TRACK_SET = []
 
 for map in maps:
     tracks += addTracks(map)
+print('')
 setTracks(tracks)
