@@ -7,6 +7,7 @@ AVG_TIME = 360
 
 
 
+import sys
 import random
 import csv
 
@@ -14,27 +15,34 @@ TRACK = dict[str,int,str]
 TRACK_SET = list[TRACK]
 
 def addTracks(type:str) -> TRACK_SET:
-    filename = 'maps_'+type
+    filename = 'eventloops/maps_'+type+'.csv'
     fields = []
-    tracks = []
+    tracks:TRACK_SET = []
     
-    with open(filename, 'r') as maps:
+    with open(filename) as file:
 
-        reader = csv.reader(maps)
+        reader = csv.reader(file, delimiter=',')
 
         fields = next(reader)
 
         for row in reader:
-            track = { 'id':row[0], 'lap':row[1], 'gamemode':row[2] }
+            track:TRACK = { 'id':row[0], 'lap':int(row[1]), 'gamemode':row[2] }
             tracks.append(track)
     
     return tracks
 
-def setTracks(tracks:list) -> None:
-    random.shuffle(tracks)
-    for track in tracks:
+def setTracks(track_list:TRACK_SET) -> None:
+    random.shuffle(track_list)
+    for track in track_list:
         print('el_add='+track['id'])
         if track['lap'] != 0:
-            print('el_laps='+min( round(AVG_TIME / track['lap']) , MAX_LAPS ))
+            print('el_laps='+str(min( round(AVG_TIME / track['lap']) , MAX_LAPS )))
         print('el_gamemode='+track['gamemode'])
         print('')
+
+maps = sys.argv[1:]
+tracks = []
+
+for map in maps:
+    tracks += addTracks(map)
+setTracks(tracks)
