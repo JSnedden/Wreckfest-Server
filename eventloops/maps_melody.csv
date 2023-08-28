@@ -1,0 +1,13 @@
+map_id,lap_time,gamemode,location,track
+melody_01,110,racing,Melody Raceway,Route 1
+melody_02,110,racing,Melody Raceway,Route 1 Reverse
+melody_03,60,racing,Melody Raceway,Route 2
+melody_04,60,racing,Melody Raceway,Route 2 Reverse
+melody_05,90,racing,Melody Raceway,Route 3
+melody_06,90,racing,Melody Raceway,Route 3 Reverse
+melody_07,105,racing,Melody Raceway,Route 4
+melody_08,105,racing,Melody Raceway,Route 4 Reverse
+melody_09,90,racing,Melody Raceway,Route 5
+melody_10,90,racing,Melody Raceway,Route 5 Reverse
+melody_11,60,racing,Melody Raceway,Route 6
+melody_12,60,racing,Melody Raceway,Route 6 Reverse
