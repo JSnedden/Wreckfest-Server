@@ -29,6 +29,7 @@ def addTracks(type:str) -> TRACK_SET:
             for row in reader:
                 track:TRACK = { 'id':row[0], 'lap':int(row[1]), 'gamemode':row[2] }
                 tracks.append(track)
+        print('# Retrieved maps from '+filename)
     except:
         print('# Error getting tracks in '+filename)
     
