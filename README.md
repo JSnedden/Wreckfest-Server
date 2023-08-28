@@ -23,7 +23,7 @@ This project runs on windows machines, linux machines should start servers by ca
     * Ensure the mods are stored in the /mods folder and named in the server config
     * To add modded maps to your rotation, you should create your own `.csv` in the format `maps_<mod>.csv`
     * Use the required headers "map_id,lap_time,gamemode", "location" and "track" optional
-    * "map_id" should correspond to the name of the `.evse` file in /<mod>/data/propert/event
+    * "map_id" should correspond to the name of the `.evse` file in /`<mod>`/data/propert/event
     * "lap_time" should be the average lap time for your participants for that track rounded to nearest 5 seconds
         * Base game sample events were created using B class non-special vehicles
     * "gamemode" should refer to the gamemode type allowed for that map
