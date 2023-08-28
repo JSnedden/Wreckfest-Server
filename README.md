@@ -33,8 +33,8 @@ This project runs on windows machines, linux machines should start servers by ca
     * "gamemode" should refer to the gamemode type allowed for that map
         * Base game sample events only include racing and derby types
 5. If you want to change the the maximum number of laps or average race length, amend the values at the top of `eventloops/events.py`
-6. Open `server_gen.bat` and add the names you want (from `maps_<name>.csv`) following the python script call and before the pipe symbol (`|`)
-    * Example `py .\eventloops\events.py racing figure8 | Add-Content`
+6. Open `server_gen.bat` and add the names you want (from `maps_<name>.csv`) following the python script call
+    * Example `py .\eventloops\events.py racing`
 7. When happy with your options, double click `server_gen.bat` to start your server!
 
 ## Customising + Mods!

@@ -37,17 +37,21 @@ def addTracks(type:str) -> TRACK_SET:
 
 def setTracks(track_list:TRACK_SET) -> None:
     random.shuffle(track_list)
+    file = open('active_config.cfg', 'a')
+
     for track in track_list:
-        print('el_add='+track['id'])
+        file.write('el_add='+track['id']+'\n')
         if track['lap'] != 0:
-            print('el_laps='+str(min( round(AVG_TIME / track['lap']) , MAX_LAPS )))
-        print('el_gamemode='+track['gamemode'])
-        print('')
+            file.write('el_laps='+str(min( round(AVG_TIME / track['lap']) , MAX_LAPS ))+'\n')
+        file.write('el_gamemode='+track['gamemode']+'\n')
+        file.write('\n')
+    
+    file.close()
 
 maps = sys.argv[1:]
 tracks:TRACK_SET = []
 
 for map in maps:
     tracks += addTracks(map)
-print('')
+
 setTracks(tracks)
