@@ -28,14 +28,13 @@ This project runs on windows machines, linux machines should start servers by ca
     * To add modded maps to your rotation, you should create your own `.csv` in the format `maps_<mod>.csv`
     * Use the required headers "map_id,lap_time,gamemode", "location" and "track" optional
     * "map_id" should correspond to the name of the `.evse` file in /`<mod>`/data/property/event
-    * "lap_time" should be the average lap time for your participants for that track rounded to nearest 5 seconds
+    * "lap_time" should be the average lap time for your participants for that track, I rounded to nearest 5 seconds
         * Base game sample events were created using B class non-special vehicles
     * "gamemode" should refer to the gamemode type allowed for that map
         * Base game sample events only include racing and derby types
-5. If you want to change the the maximum number of laps or average race length, amend the values at the top of `eventloops/events.py`
-6. Open `server_gen.bat` and add the names you want (from `maps_<name>.csv`) following the python script call
-    * Example `py .\eventloops\events.py racing`
-7. When happy with your options, double click `server_gen.bat` to start your server!
+5. Open `server_gen.bat` and change the max laps and average race length to your choice. Then add the track set names you want (from `maps_<name>.csv`) following the python script call
+    * Example `py .\eventloops\events.py 5 300 racing`
+6. When happy with your options, double click `server_gen.bat` to start your server!
 
 ## Customising + Mods!
 If you want to customise the maps documents to make your own rotations or add modded maps, feel free to fork!
