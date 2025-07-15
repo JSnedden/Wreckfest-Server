@@ -1,0 +1,90 @@
+map_id,lap_time,gamemode,location,track
+asan_main,000,racing,Asan,Main
+asan_reverse,000,racing,Asan,Reverse
+asan_rain,000,racing,Asan,Rain
+asan_rain_evening,000,racing,Asan,Rain Evening
+city_s00,000,racing,Downpour City,S00 OPEN No AI
+city_s00_resetpoints,000,racing,Downpour City,S00 OPEN Resetpoints
+city_s01,000,racing,Downpour City,S01
+city_s01_reverse,000,racing,Downpour City,S01 Reverse
+city_s02,000,racing,Downpour City,S02
+city_s02_reverse,000,racing,Downpour City,S02 Reverse
+city_s03,000,racing,Downpour City,S03 Subway
+city_s03_reverse,000,racing,Downpour City,S03 Subway Reverse
+city_s04,000,racing,Downpour City,S04
+city_s04_reverse,000,racing,Downpour City,S04 Reverse
+city_s05,000,racing,Downpour City,S05 Parking Derby
+city_s06,000,racing,Downpour City,S06 Parking House Race
+city_s07,000,racing,Downpour City,S07 Park Race
+city_s07_reverse,000,racing,Downpour City,S07 Park Race Reverse
+city_s08,000,racing,Downpour City,S08 Mall Race
+city_s08_reverse,000,racing,Downpour City,S08 Mall Race Reverse
+city_s09,000,racing,Downpour City,S09
+city_s09_reverse,000,racing,Downpour City,S09 Reverse
+city_s10,000,racing,Downpour City,S10
+coyote_dragstrip,000,racing,Coyote Park,Dragstrip PTP
+coyote_dragstrip_alt,000,racing,Coyote Park,Dragstrip ALT PTP
+coyote_fig8,000,racing,Coyote Park,Fig 8
+coyote_oval,000,racing,Coyote Park,Oval
+coyote_oval_reverse,000,racing,Coyote Park,Oval Reverse
+coyote_rallycross,000,racing,Coyote Park,Rallycross
+coyote_rallycross_reverse,000,racing,Coyote Park,Rallycross Reverse
+gardemoen,000,racing,Gardemoen,Gardemoen
+gardemoen_open,000,racing,Gardemoen,Gardemoen Open
+gardemoen_rallycross,000,racing,Gardemoen,Gardemoen Rallycross
+gardemoen_rallycross_reverse,000,racing,Gardemoen,Gardemoen Rallycross Reverse
+gardemoen_reverse,000,racing,Gardemoen,Gardemoen Reverse
+laanke_open,000,racing,Laankebanen,Laankebanen Open
+laanke_rallycross,000,racing,Laankebanen,Laankebanen
+laanke_rallycross_reverse,000,racing,Laankebanen,Laankebanen Reverse
+laanke_short,000,racing,Laankebanen,Laankebanen Short
+laanke_short_reverse,000,racing,Laankebanen,Laankebanen Short Reverse
+laanke_tarmac,000,racing,Laankebanen,Laankebanen Tarmac
+laanke_tarmac_reverse,000,racing,Laankebanen,Laankebanen Tarmac Reverse
+laguna_main,000,racing,Laguna,Main
+laguna_reverse,000,racing,Laguna,Reverse
+lillesand_s01,000,racing,Lillesand,S01
+lillesand_s02,000,racing,Lillesand,S02
+lillesand_s03,000,racing,Lillesand,S03
+lofoten_chicane,000,racing,NMK Lofoten,Chicane
+lofoten_chicane_reverse,000,racing,NMK Lofoten,Chicane Reverse
+lofoten_main,000,racing,NMK Lofoten,Main
+lofoten_reverse,000,racing,NMK Lofoten,Reverse
+msr_fig8,000,racing,Midvale Speedway Ring,Figure 8
+msr_fig8_micro,000,racing,Midvale Speedway Ring,Figure 8 Micro
+msr_minioval,000,racing,Midvale Speedway Ring,Minioval
+mse_oval,000,racing,Midvale Speedway Ring,Oval
+msr_rallycross_01,000,racing,Midvale Speedway Ring,Rallycross 01
+msr_rallycross_02,000,racing,Midvale Speedway Ring,Rallycross 02
+msr_rallycross_03,000,racing,Midvale Speedway Ring,Rallycross 03
+msr_rallycross_04,000,racing,Midvale Speedway Ring,Rallycross 04
+msr_rallycross_05,000,racing,Midvale Speedway Ring,Rallycross 05
+msr_rallycross_06,000,racing,Midvale Speedway Ring,Rallycross 06
+msr_rallycross_07,000,racing,Midvale Speedway Ring,Rallycross 07
+msr_rallycross_08,000,racing,Midvale Speedway Ring,Rallycross 08
+palmer_main,000,racing,Palmer Motorsports Park,Main
+palmer_reverse,000,racing,Palmer Motorsports Park,Reverse
+stadium_eight_halfpipe,000,racing,Paradise Eight,Halfpipe
+stadium_eight_loop,000,racing,Paradise Eight,Loop
+stadium_eight_main,000,racing,Paradise Eight,Main
+stadium_eight_oval,000,racing,Paradise Eight,Oval
+stadium_eight_square,000,racing,Paradise Eight,Square
+stangnas_01,000,racing,Stangnas,Main
+stangnas_02,000,racing,Stangnas,More Technical
+stangnas_03,000,racing,Stangnas,Most Technical
+stangnas_04,000,racing,Stangnas,Main with Chicane
+tomelilla_01,000,racing,Tomelilla,Tomelilla 01
+tomelilla_02,000,racing,Tomelilla,Tomelilla 02
+tomelilla_03,000,racing,Tomelilla,Tomelilla 03
+tomelilla_04,000,racing,Tomelilla,Tomelilla 04
+tomelilla_05,000,racing,Tomelilla,Tomelilla 05 Rain
+trophy_trucks_ghr,000,racing,Trophy Truck Tracks,Glen Helen Raceway
+trophy_trucks_primm,000,racing,Trophy Truck Tracks,Primm Raceway
+trophy_trucks_primm_reverse,000,racing,Trophy Truck Tracks,Primm Raceway Reverse
+tunnel_s01,000,racing,Tunnel of Terror,S01 Highspeed
+tunnel_s02,000,racing,Tunnel of Terror,S02 Super Oval
+tunnel_s03,000,racing,Tunnel of Terror,S03 Crossing
+tunnel_s04,000,racing,Tunnel of Terror,S04 The Fjords
+whp,000,racing,Wild Horse Pass,Wild Horse Pass
+whp_reverse,000,racing,Wild Horse Pass,Reverse
+whp_wet,000,racing,Wild Horse Pass,Wet
