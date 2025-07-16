@@ -3,7 +3,7 @@ This project allows you (a wreckfest server host) to start a wreckfest server wi
 
 I found out that Wreckfest servers (as of 24/08/2023) do not randomise the event loops, which means that they follow the same order when the voting starts. I was inconvenienced by this and realised that it would best be solved by a small script, so probably in python. I didn't find any public solutions that randomises a list of tracks and makes the average race length a given time of my choosing.
 
-Some inspiration was taken from [TheLysdexicOne](https://github.com/TheLysdexicOne)'s [project](https://github.com/TheLysdexicOne/wreckfest-server) randomising the tracks though I have designed a simplified and somewhat modular approach. Modular being modded maps can be added, but at the expense of the host manually creating the `.csv` file to add it into rotation
+I have decided to take a somewhat modular approach, with "modular" being modded maps can be added, but at the expense of the host manually creating the `.csv` file to add it into rotation. You can also choose what maps you want to have in rotation, each time you start the server, choosing only racing, or perhaps racing and derby.
 
 ## Requirements
 To host a Wreckfest server, you need either:
