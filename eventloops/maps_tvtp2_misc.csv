@@ -1,0 +1,23 @@
+map_id,lap_time,gamemode,location,track
+city_s00,000,derby,Downpour City,S00 OPEN No AI
+city_s00_resetpoints,000,derby,Downpour City,S00 OPEN Resetpoints
+city_s03,60,racing,Downpour City,S03 Subway
+city_s03_reverse,60,racing,Downpour City,S03 Subway Reverse
+city_s06,45,racing,Downpour City,S06 Parking House Race
+city_s07,75,racing,Downpour City,S07 Park Race
+city_s07_reverse,75,racing,Downpour City,S07 Park Race Reverse
+city_s08,75,racing,Downpour City,S08 Mall Race
+city_s08_reverse,75,racing,Downpour City,S08 Mall Race Reverse
+city_s10,90,racing,Downpour City,S10
+coyote_dragstrip,15,racing,Coyote Park,Dragstrip PTP
+coyote_dragstrip_alt,15,racing,Coyote Park,Dragstrip ALT PTP
+msr_fig8,20,racing,Midvale Speedway Ring,Figure 8
+msr_fig8_micro,15,racing,Midvale Speedway Ring,Figure 8 Micro
+msr_rallycross_01,20,racing,Midvale Speedway Ring,Rallycross 01
+msr_rallycross_02,25,racing,Midvale Speedway Ring,Rallycross 02
+msr_rallycross_03,25,racing,Midvale Speedway Ring,Rallycross 03
+msr_rallycross_04,20,racing,Midvale Speedway Ring,Rallycross 04
+msr_rallycross_05,20,racing,Midvale Speedway Ring,Rallycross 05
+msr_rallycross_06,25,racing,Midvale Speedway Ring,Rallycross 06
+msr_rallycross_07,10,racing,Midvale Speedway Ring,Rallycross 07
+tunnel_s01,180,racing,Tunnel of Terror,S01 Highspeed

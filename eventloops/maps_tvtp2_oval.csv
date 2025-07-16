@@ -1,0 +1,18 @@
+map_id,lap_time,gamemode,location,track
+city_s02,80,racing,Downpour City,S02
+city_s02_reverse,80,racing,Downpour City,S02 Reverse
+city_s04,15,racing,Downpour City,S04
+city_s04_reverse,15,racing,Downpour City,S04 Reverse
+city_s09,60,racing,Downpour City,S09
+city_s09_reverse,60,racing,Downpour City,S09 Reverse
+coyote_oval,55,racing,Coyote Park,Oval
+coyote_oval_reverse,55,racing,Coyote Park,Oval Reverse
+lillesand_s01,180,racing,Lillesand,S01
+lillesand_s02,80,racing,Lillesand,S02
+msr_minioval,15,racing,Midvale Speedway Ring,Minioval
+msr_oval,15,racing,Midvale Speedway Ring,Oval
+stadium_eight_halfpipe,15,racing,Paradise Eight,Halfpipe
+stadium_eight_oval,15,racing,Paradise Eight,Oval
+stadium_eight_square,20,racing,Paradise Eight,Square
+tunnel_s02,95,racing,Tunnel of Terror,S02 Super Oval
+tunnel_s04,110,racing,Tunnel of Terror,S04 The Fjords
