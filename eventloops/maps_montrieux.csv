@@ -2,7 +2,8 @@ map_id,lap_time,gamemode,location,track
 montrieux_1a,75,racing,Montrieux Circuit,Circuit 1A
 montrieux_1a-r,75,racing,Montrieux Circuit,Circuit 1A Reverse
 montrieux_3a,55,racing,Montrieux Circuit,Circuit 3A
-montrieux_3a-r,5,racing,Montrieux Circuit,Circuit 3A Reverse
+montrieux_3a-r,55,racing,Montrieux Circuit,Circuit 3A Reverse
+montrieux_9a-r,60,racing,Montrieux Circuit,Circuit 9A Reverse
 montrieux_school,35,racing,Montrieux Circuit,School Circuit
 montrieux_school-r,35,racing,Montrieux Circuit,School Circuit Reverse
 montrieux_technical,70,racing,Montrieux Circuit,Technical Circuit
