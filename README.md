@@ -44,6 +44,6 @@ Additionally, if you wish to duplicate / rearrange items and would like a frame 
 ### Included mods
 * [Montrieux Circuit](https://steamcommunity.com/sharedfiles/filedetails/?id=2804743499) - 9a in forward direction has blockages, so removed!
 * [Melody Raceway](https://steamcommunity.com/sharedfiles/filedetails/?id=2977369553) - Separated low traction layouts.
-* [Nitro Stunt Racing track pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2787405592)
+* [Nitro Stunt Racing track pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2787405592) - Split into racing (no name), oval and noai.
 * [The Very Track Pack 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2276098616) - Split into racing, derby, figure 8, oval and miscellaneous (+broken) collections. 
 <!-- * []() -  -->
