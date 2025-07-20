@@ -1,13 +1,9 @@
 map_id,lap_time,gamemode,location,track
-01loopings,100,racing,Nitro Stunt Racing,Loopings
-01loopingsb,100,racing,Nitro Stunt Racing,Loopings Rev
 02jumpitup,95,racing,Nitro Stunt Racing,Jump It Up
 02jumpitupb,95,racing,Nitro Stunt Racing,Jump It Up Rev
 03hotrusk,80,racing,Nitro Stunt Racing,Hotrusk
 03hotruskb,85,racing,Nitro Stunt Racing,Hotrusk Rev
 07redrun,110,racing,Nitro Stunt Racing,Red Run
 07redrunb,105,racing,Nitro Stunt Racing,Red Run Rev
-08twisted,120,racing,Nitro Stunt Racing,Twisted Iron
 10eaglespeak,115,racing,Nitro Stunt Racing,Eagle's Peak
 11multiplex,110,racing,Nitro Stunt Racing,Multiplex
-12multiplexloop,35,racing,Nitro Stunt Racing,Multiplex Figure O
